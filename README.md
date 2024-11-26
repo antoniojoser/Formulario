@@ -29,11 +29,5 @@ El formulario tiene un diseño moderno y minimalista, con un fondo oscuro y camp
 - **HTML5**: Estructura y diseño del formulario.
 - **CSS3**: Estilos para el diseño y presentación visual.
 
-## 💻 Captura de Pantalla
 
-![Formulario de Registro](img/registro.png)
-
-## 🚀 ¿Cómo Usar?
-
-1. Clona este repositorio a tu máqu
 
